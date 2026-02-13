@@ -1,0 +1,1 @@
+{\n  "name": "Valentine",\n  "theme": "jekyll-theme-minimal",\n  "remote_theme": "pages-themes/minimal",\n  "markdown": "kramdown",\n  "plugins": [\n    "jekyll-paginate"\n  ],\n  "include": ["_pages/**"],\n  "exclude": ["Gemfile", "Gemfile.lock", "README.md", "node_modules/**"]\n}
